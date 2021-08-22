@@ -342,7 +342,7 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-invgamma-ctor/main/LICENSE
 
-[invgamma-distribution]: https://en.wikipedia.org/wiki/Inverse_Gamma_distribution
+[invgamma-distribution]: https://en.wikipedia.org/wiki/Inverse-gamma_distribution
 
 [cdf]: https://en.wikipedia.org/wiki/Cumulative_distribution_function
 
