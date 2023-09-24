@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import InvGamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-ctor@deno/mod.js';
+import InvGamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-ctor@v0.1.0-deno/mod.js';
 ```
 
 #### InvGamma( \[alpha, beta] )
@@ -259,7 +259,7 @@ y = invgamma.quantile( 1.9 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import InvGamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-ctor@deno/mod.js';
+import InvGamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-ctor@v0.1.0-deno/mod.js';
 
 var invgamma = new InvGamma( 3.0, 4.0 );
 
