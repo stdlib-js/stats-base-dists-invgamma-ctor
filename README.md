@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import InvGamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-ctor@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-invgamma-ctor/tags). For example,
+
+```javascript
 import InvGamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-ctor@v0.2.0-esm/index.mjs';
 ```
 
@@ -264,7 +269,7 @@ y = invgamma.quantile( 1.9 );
 <body>
 <script type="module">
 
-import InvGamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-ctor@v0.2.0-esm/index.mjs';
+import InvGamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-ctor@esm/index.mjs';
 
 var invgamma = new InvGamma( 3.0, 4.0 );
 
