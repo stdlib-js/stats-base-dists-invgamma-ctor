@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-07-27)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`a103b47`](https://github.com/stdlib-js/stdlib/commit/a103b474ac08bc97bfdeac4674230abc02d17ae5) - **docs:** fix descriptions [(#13696)](https://github.com/stdlib-js/stdlib/pull/13696) _(by Philipp Burckhardt)_
+-   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
 
