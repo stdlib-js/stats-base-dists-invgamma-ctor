@@ -137,6 +137,17 @@ b = invgamma.beta;
 
 ### Computed Properties
 
+#### InvGamma.prototype.entropy
+
+Returns the [differential entropy][entropy].
+
+```javascript
+var invgamma = new InvGamma( 4.0, 12.0 );
+
+var entropy = invgamma.entropy;
+// returns ~1.996
+```
+
 #### InvGamma.prototype.kurtosis
 
 Returns the [excess kurtosis][kurtosis].
@@ -393,6 +404,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [pdf]: https://en.wikipedia.org/wiki/Probability_density_function
 
 [quantile-function]: https://en.wikipedia.org/wiki/Quantile_function
+
+[entropy]: https://en.wikipedia.org/wiki/Entropy_%28information_theory%29
 
 [expected-value]: https://en.wikipedia.org/wiki/Expected_value
 
